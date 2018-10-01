@@ -1,0 +1,45 @@
+.fuente {
+	font-family: 'Lobster Two', cursive;
+}
+
+.letra {
+	font-family: 'Lobster Two', cursive;
+	font-family: 'Istok Web', sans-serif;
+}
+
+img {
+    border-radius: 8px;
+    
+}
+
+footer{	
+	width: 100%;
+	padding-left: 2%;
+	padding-right: 2%;
+	position: absolute;
+	height: 15%;
+}
+
+footer img{
+	width: 45%;
+	margin: 2%;
+}
+
+footer p{
+	color: black;
+	padding: 1%;
+	text-align: center;
+}
+
+footer a{
+	color: black;
+	font-size: 20px;
+}
+
+footer a:hover{
+	color: black;
+}
+
+footer ul {
+	list-style: none;
+}
